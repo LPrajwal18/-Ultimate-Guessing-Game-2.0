@@ -91,7 +91,8 @@ Contributions are welcome! To add features or fix issues:
 ---
 
 ## 💬 Feedback  
-If you have suggestions, feature requests, or find bugs, feel free to open an issue in this repository or contact me.  
+If you have suggestions, feature requests, or find bugs, feel free to open an issue in this repository or contact me.
+lprajwal18@gmail.com
 
 ---
 
